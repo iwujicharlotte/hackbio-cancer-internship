@@ -1,0 +1,4 @@
+"Enrichment FDR","nGenes","Pathway Genes","Fold Enrichment","Pathway","URL","Genes"
+0.00209296012768592,16,1894,3.33262935586061,"GO:0005887 integral component of plasma membrane "," http://amigo.geneontology.org/amigo/term/GO:0005887"," TRPC7  HCRTR1  SSTR4  LRRC38  RHO  KCNG4  CMKLR2  NPSR1  SELE  SELP  FASLG  GPR31  CD70  FFAR2  ECEL1  CCR9"
+0.00209296012768592,16,1978,3.19110212335693,"GO:0031226 intrinsic component of plasma membrane "," http://amigo.geneontology.org/amigo/term/GO:0031226"," TRPC7  HCRTR1  SSTR4  LRRC38  RHO  KCNG4  CMKLR2  NPSR1  SELE  SELP  FASLG  GPR31  CD70  FFAR2  ECEL1  CCR9"
+0.0203289180009092,20,3577,2.20575901593514,"GO:0005615 extracellular space "," http://amigo.geneontology.org/amigo/term/GO:0005615"," MPO  DSG2  APOB  CD70  SMPDL3B  KRT7  NECTIN4  DES  KLHL34  PLA2G2A  S100A14  SELE  GAL  WNT2  IGF2  SELP  COLEC10  OTOG  TGFBR3L  FASLG"
